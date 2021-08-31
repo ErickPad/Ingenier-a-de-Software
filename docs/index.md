@@ -9,5 +9,5 @@
 &nbsp;
 # Presentación
 
-- **Nombre**: demo
-- **Correo**: my.email@mail.com
+- **Nombre**: Erick Padilla Arrieta
+- **Correo**: erick_padill@outlook.com
