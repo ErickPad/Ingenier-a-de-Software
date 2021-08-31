@@ -9,6 +9,8 @@ Investigación U1: (Bonus)
 Son un conjunto de tareas y procedimientos dirigidos a la gestión de proyectos las cuales se deben de seguir con ciertas indicaciones sobre qué hacer durante el desarrollo software, en pocas palabras el objetivo es buscar adaptar el trabajo para lograr un funcionamiento eficiente cumpliendo los requisitos deseados. 
 </div>
 
+![Mi imagen](/archivos/individual/Actividad_1/Metod.jpg)
+
 &nbsp;
 
 ## ¿Porqué usar Metodologías Ágiles?
@@ -29,6 +31,8 @@ A continuación se mencionarán diferentes tipos de Metodologías con su explica
 &nbsp;
 ###1.- Scrum
 
+![Mi imagen](/archivos/individual/Actividad_1/Scrum.png)
+
 &nbsp;
 <div style="text-align: justify">
 El principal propósito de este método es el poder resolver problemas complejos tomando desiciones en función de la información existente. 
@@ -45,6 +49,8 @@ Esta Metodología cuenta con dos diferentes formas de plantearse:
 &nbsp;
 ###2.- Kanban
 
+![Mi imagen](/archivos/individual/Actividad_1/Kanban.png)
+
 &nbsp;
 <div style="text-align: justify">
 Kanban es una palabra japonesa formada por Kan, que quiere decir visual, y Ban, que significa tarjeta, en pocas palabras se refiere a las tarjetas visuales. Una ventaja es que al ser todo visual se puede conocer el estado del proyecto para poder asignar tareas de una manera muy efectiva. Para llevar a cabo esto se necesita un tablero visible y accesible para todos los miembros.
@@ -55,6 +61,8 @@ Se necesita llevar un registro en donde se anotará el estado de las tareas, sie
 
 &nbsp;
 ###3.- Lean
+
+![Mi imagen](/archivos/individual/Actividad_1/Lean.jpg)
 
 &nbsp;
 <div style="text-align: justify">
