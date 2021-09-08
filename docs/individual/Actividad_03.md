@@ -4,6 +4,8 @@ Investigación U2: ¿Qué es un Diagrama de Gantt?
 
 &nbsp;
 
+![Mi imagen](/archivos/individual/Actividad_03/Diag.png)
+
 Para saber que es un diagrama de Gantt, debemos tener ciertos conocimientos básicos a cerca de este mismo tema, donde más adelante los explicaremos para entender mejor la pregunta y poder llegar a responderla.
 
 
@@ -27,6 +29,8 @@ Para saber que es un diagrama de Gantt, debemos tener ciertos conocimientos bás
 &nbsp;
 
 ## ¿Qué es?
+
+![Mi imagen](/archivos/individual/Actividad_03/Dig3.png)
 
 &nbsp;
 <div style="text-align: justify">
@@ -52,6 +56,8 @@ Un diagrama de Gantt entre otras cosas se puede observar que, tiene la fecha de 
 <div style="text-align: justify">
 Los diagramas de Gantt pueden ser usados para mostrar el estado actual de la programación utilizando un porcentaje de sombreado completo, generalmente son creados inicialmente con un enfoque de inicio temprano, donde cada tarea está programada para comenzar inmediatamente cuando se completan sus requisitos. Esto logra maximizar el tiempo para todas las tareas.
 </div>
+
+![Mi imagen](/archivos/individual/Actividad_03/Dig2.png)
 
 <div style="text-align: justify">
 Para hacer un diagrama de Gantt debemos de hacer una lista con cada tarea en tu proyecto en orden de principio a fin. Incluya el nombre de la tarea, la fecha de inicio, la duración y la fecha de finalización. Con todos estos datos se puede llevar a desarrollar el diagrama con diferentes tipos de herramientas, desde Softwares, aplicaciones en línea u otros tipos de programas.
@@ -107,6 +113,8 @@ A principios del siglo XX más específicos entre 1910 y 1915, Henry Gantt quié
 
 ## Usos
 
+![Mi imagen](/archivos/individual/Actividad_03/Plan.jpg)
+
 &nbsp;
 <div style="text-align: justify">
 El diagrama de Gantt nos es muy útil en la gestión de este proyecto. 
@@ -126,7 +134,21 @@ el proyecto se pudo completar en tiempo y forma.
 Hoy en día existen muchas herramientas para facilitarnos el trabajo de hacer un Diagrama, existen macros que automatizan esta elaboración en Microsoft Excel y Libre/OpenOffice Calc. Sin embargo, existen varios dedicados a la planificación y seguimiento de tareas, que utilizan el diagrama de Gantt como pantalla principal. 
 </div>
 
+![Mi imagen](/archivos/individual/Actividad_03/Herra.jpg)
+
 &nbsp;
 <div style="text-align: justify">
 Algunas de dichas herramientas informáticas para crear Diagramas de Gantt son: ProjectLibre (La cuál utilizaremos), OpenProj, GanttProject, TaskJuggler, Planner, Calligra Plan,  Smartsheet, Tomsplanner, Gantter, Konstruir.
 </div>
+
+&nbsp;
+
+## Referencias:
+
+&nbsp;
+
+*- Vieira, M. (2019, 6 Mayo) Diagrama de Gantt: ¿cómo funciona y para qué sirve? Rockcontent. https://rockcontent.com/es/blog/que-es-diagrama-de-gantt/*
+
+*- Pérez, A. (2014, 8 Junio) Las claves de Gantt, el método más utilizado en gestión de proyectos OBS. https://www.obsbusiness.school/blog/las-claves-de-gantt-el-metodo-mas-utilizado-en-gestion-de-proyectos*
+
+-Terrazas, R. (2011) *Planificación y programación de operaciones*, Bolivia, Universidad Católica Boliviana San Pablo.
