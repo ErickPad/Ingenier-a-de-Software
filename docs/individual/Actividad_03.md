@@ -143,6 +143,14 @@ Algunas de dichas herramientas informáticas para crear Diagramas de Gantt son: 
 
 &nbsp;
 
+## Ejemplo en ProjectLibre:
+
+&nbsp;
+
+[Ejemplo del Diagrama Gantt](http://127.0.0.1:8001/individual/Ejemplo_03/ "Diagrama Cinematográfico")
+
+&nbsp;
+
 ## Referencias:
 
 &nbsp;
