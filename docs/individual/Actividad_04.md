@@ -2,6 +2,8 @@
 Investigación U3 (Bonus): ¿Qué es UML?
 ## UML
 
+![Mi imagen](/archivos/individual/Actividad_04/UML.png)
+
 &nbsp;
 
 Para saber que es **UML** y que es un **Diagrama**, debemos tener ciertos conocimientos básicos a cerca de este mismo tema, donde más adelante los explicaremos para entender mejor las preguntas y poder llegar a responderlas.
@@ -39,6 +41,8 @@ Como lo mencionamos anteriormente, el Lenguaje Unificado de Modelado (UML) fue c
 
 ## Origen de UML
 
+![Mi imagen](/archivos/individual/Actividad_04/Past.jpg)
+
 &nbsp;
 
 <div style="text-align: justify">
@@ -48,6 +52,8 @@ Empezó en la década de los 90's, más específicos en el año de 1994, donde 3
 &nbsp;
 
 ## Diagramas UML
+
+![Mi imagen](/archivos/individual/Actividad_04/DiaUML.jpg)
 
 &nbsp;
 
@@ -63,6 +69,8 @@ visualizar el sistema desde varias perspectivas. A continuación, daremos a cono
 <div style="text-align: justify">
 Muestra la relación entre objetos por medio de ejemplos del mundo real e ilustra cómo se verá un sistema en un momento dado. Dado que los datos están disponibles dentro de los objetos, estos pueden usarse para clarificar relaciones entre objetos.
 </div>
+
+![Mi imagen](/archivos/individual/Actividad_04/Obj.png)
 
 &nbsp;
 
@@ -82,6 +90,8 @@ Hay dos tipos especiales de dependencias que se definen entre paquetes: la impor
 
 &nbsp;
 
+![Mi imagen](/archivos/individual/Actividad_04/Paq.png)
+
 **Características:** 
 
 <div style="text-align: justify">
@@ -98,6 +108,8 @@ Muestra la arquitectura física de un sistema informático. Puede representar a 
 
 &nbsp;
 
+![Mi imagen](/archivos/individual/Actividad_04/Dis.png)
+
 **Características:** 
 
 <div style="text-align: justify">
@@ -113,6 +125,8 @@ Es una gráfica de formas de ondas digitales que muestra la relación temporal e
 </div>
 
 &nbsp;
+
+![Mi imagen](/archivos/individual/Actividad_04/Tiempo.png)
 
 **Características:** 
 
