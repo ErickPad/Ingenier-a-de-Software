@@ -6,6 +6,8 @@ Investigación U4: ¿Qué es JSON y XML?
 
 Para saber que es **JSON** y que es un **XML**, debemos tener ciertos conocimientos básicos a cerca de este mismo tema, donde más adelante los explicaremos para entender mejor las preguntas y poder llegar a responderlas.
 
+![Mi imagen](/archivos/individual/Actividad_05/large.png)
+
 &nbsp;
 
 ## Glosario
@@ -25,6 +27,8 @@ Para saber que es **JSON** y que es un **XML**, debemos tener ciertos conocimien
 &nbsp;
 
 ## ¿Qué es JSON?
+
+![Mi imagen](/archivos/individual/Actividad_05/JSON.png)
 
 &nbsp;
 <div style="text-align: justify">
@@ -101,7 +105,27 @@ Se utiliza para el intercambio y almacenamiento de información. Es fácil de ap
 
 &nbsp;
 
+Ejemplo 1:
+
+![Mi imagen](/archivos/individual/Actividad_05/J1.png)
+
+&nbsp;
+
+Ejemplo 2:
+
+![Mi imagen](/archivos/individual/Actividad_05/J2.png)
+
+&nbsp;
+
+Ejemplo 3:
+
+![Mi imagen](/archivos/individual/Actividad_05/J3.Jpg)
+
+&nbsp;
+
 ## ¿Qué es XML?
+
+![Mi imagen](/archivos/individual/Actividad_05/XML.webp)
 
 &nbsp;
 <div style="text-align: justify">
@@ -174,3 +198,39 @@ Se puede aplicar en el análisis de datos o la lectura de textos creados por com
 ## Ejemplos
 
 &nbsp;
+
+Ejemplo 1:
+
+![Mi imagen](/archivos/individual/Actividad_05/X1.png)
+
+&nbsp;
+
+Ejemplo 2:
+
+![Mi imagen](/archivos/individual/Actividad_05/X2.gif)
+
+&nbsp;
+
+Ejemplo 3:
+
+![Mi imagen](/archivos/individual/Actividad_05/X3.png)
+
+&nbsp;
+
+## Tabla Comparativa
+
+&nbsp;
+
+![Mi imagen](/archivos/individual/Actividad_05/JSONvsXML.jpg)
+
+&nbsp;
+
+## Referencias:
+
+&nbsp;
+
+*- Souza, I. (2019, 12 julio) XML: ¿qué es y para qué sirve este lenguaje de marcado?, rockcontent. https://rockcontent.com/es/blog/que-es-xml/*
+
+*- Deyimar, A. (2021, 27 julio) ¿Qué es JSON?, HOSTINGUER. https://www.hostinger.mx/tutoriales/que-es-json*
+
+*- Barrera, A. (2019) JSON: ¿Qué es y para qué sirve?, next_u. https://www.nextu.com/blog/que-es-json/*
